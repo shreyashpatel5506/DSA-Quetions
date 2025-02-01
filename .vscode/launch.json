@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "byjava",
+            "request": "launch",
+            "mainClass": "longestsamesubelemnetarray.byjava",
+            "projectName": "DSA Quetions_cd60cbe6"
+        },
+        {
+            "type": "java",
             "name": "byJava",
             "request": "launch",
             "mainClass": "longestsubarray.byJava",
